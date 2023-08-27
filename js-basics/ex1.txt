@@ -1,0 +1,14 @@
+1. https://www.w3schools.com/js/js_datatypes.asp
+2. // Numbers:
+let length = 16;
+let weight = 7.5;
+
+// Strings:
+let color = "Yellow";
+let lastName = "Johnson";
+
+// Booleans
+let x = true;
+let y = false;
+
+3.https://stackoverflow.com/questions/72912065/data-types-values-and-objects

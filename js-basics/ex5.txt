@@ -1,0 +1,5 @@
+1.https://www.w3schools.com/js/js_htmldom_elements.asp
+2.o change the content of an HTML element, use this syntax:
+
+document.getElementById(id).innerHTML = new HTML
+3.https://stackoverflow.com/questions/3934826/what-do-people-mean-by-dom-manipulation-and-how-would-i-do-that

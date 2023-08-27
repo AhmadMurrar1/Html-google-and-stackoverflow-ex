@@ -1,0 +1,6 @@
+1.https://www.w3schools.com/js/js_functions.asp
+2.if (hour < 18) {
+  greeting = "Good day";
+}
+
+3.https://stackoverflow.com/questions/31373781/different-ways-of-naming-functions-in-javascript

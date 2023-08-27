@@ -1,0 +1,6 @@
+1.https://www.w3schools.com/js/js_debugging.asp
+2.A.The console.log() Method
+  B.Setting Breakpoints
+  C.The debugger Keyword
+
+3.https://stackoverflow.com/questions/988363/how-can-i-debug-my-javascript-code
