@@ -1,9 +1,0 @@
-1.The <!DOCTYPE>: declaration represents the document type, and helps browsers to display web pages correctly.
-and it's the first line of code required in every HTML or XHTML document.
-2.<html>: The HTML document itself begins with <html> and ends with </html>.
-The <html> tag represents the root of an HTML document and the other elements must be descendants of this element.
-3.<head>: The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
-and it describes properties of the document such as the title, the document toolbar, and additional meta-information.
-4.The <body> tag defines the document's body.
-The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-Here's the thread of stackoverflow: https://stackoverflow.com/questions/64821044/how-browser-restructure-the-invalid-html-structure-is-there-any-rules-or-approa
