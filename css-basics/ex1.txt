@@ -1,0 +1,6 @@
+1. https://www.w3schools.com/cssref/css_selectors.php
+2. Selector	Example	Example description
+.class	.intro	Selects all elements with class="intro"
+.class1.class2	.name1.name2	Selects all elements with both name1 and name2 set within its class attribute
+.class1 .class2	.name1 .name2	Selects all elements with name2 that is a descendant of an element with name1.
+3. stackoverflow thread: https://stackoverflow.com/questions/tagged/css-selectors

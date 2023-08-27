@@ -1,0 +1,4 @@
+1.https://www.w3schools.com/html/html_responsive.asp
+2.To create a responsive website, add the following <meta> tag to all your web pages
+ This will set the viewport of your page, which will give the browser instructions on how to control the page's dimensions and scaling.
+3.https://stackoverflow.com/questions/41924454/responsive-web-design

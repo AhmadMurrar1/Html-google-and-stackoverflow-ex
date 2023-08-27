@@ -1,0 +1,16 @@
+1.https://www.w3schools.com/css/css3_animations.asp
+2./* The animation code */
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+/* The element to apply the animation to */
+div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+3. https://stackoverflow.com/questions/67944783/how-to-play-animation-css-one-by-one
